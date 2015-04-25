@@ -1,5 +1,6 @@
 # SimpleTabColors
-This tiny Plugin modifies the Tab-List to show colored Player-Names. To give a Player a certain color give him the specific Permission.
+This tiny Plugin modifies the Tab-List to show colored Player-Names. To give a Player a certain color give him the specific Permission.  
+[![Build Status](https://drone.io/github.com/MarvinMenzerath/SimpleTabColors/status.png)](https://drone.io/github.com/MarvinMenzerath/SimpleTabColors/latest)
 
 ## Install
 Grab a current Release from [here](https://github.com/MarvinMenzerath/SimpleTabColors/releases) and copy it into your Plugins-Directory.  
